@@ -1,1 +1,1 @@
-# MYSQL Advanced
+# MySQL Advanced
